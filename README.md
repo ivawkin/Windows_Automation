@@ -2,6 +2,10 @@
 
 Welcome! This is a simple PowerShell script I put together to help automate the basic setup of a Windows machine. 
 
+I’m currently learning cybersecurity and working toward a role in IT support. This project is one of the ways I’m building real, practical skills—and showing that I can hit the ground running in a helpdesk or tech support position.
+
+It's simple, but it solves a real-world problem, and it was fun to build!
+
 If you're like me—setting up fresh installs, helping friends or coworkers, or just want to save time doing the same manual tasks over and over—this project might be for you. It installs essential software, tweaks a few settings, and makes your system ready to use in just a few minutes.
 
 ---
