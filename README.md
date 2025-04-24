@@ -12,7 +12,7 @@ Here's a quick rundown of what this script handles:
 
 - ✅ Creates a system restore point before making changes (just in case)
 - 💻 Installs some must-have apps using [Chocolatey](https://chocolatey.org/)
-  - Chrome, Notepad++, VLC, 7-Zip, Git, and VS Code
+  - Firefox, Notepad++, VLC, 7-Zip, Git, and VS Code
 - ⚙️ Makes a couple of useful system tweaks:
   - Disables Cortana (less distraction)
   - Makes file extensions visible in File Explorer (super handy for troubleshooting)
